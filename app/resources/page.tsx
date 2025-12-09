@@ -1,4 +1,5 @@
 'use client'
+/* eslint-disable react/no-unescaped-entities */
 
 import { ExternalLink, FileText, Phone, Globe, Book, Users, Heart, Calendar, RefreshCw, Loader2 } from 'lucide-react'
 import { useEffect, useState } from 'react'

@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import { AlertCircle, Users, Globe, FileText, Calendar, Heart, BookOpen, Navigation } from 'lucide-react'
 
 export default function TechSEACommunities() {

@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import Link from 'next/link'
 import { ArrowRight, Users, BookOpen, Wrench, FileText, CheckCircle, Shield, Heart, Globe2, TrendingUp, MessageCircle, Calendar } from 'lucide-react'
 

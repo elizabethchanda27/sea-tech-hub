@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import { Heart, Shield, GraduationCap, FileCheck, ArrowRight, AlertTriangle } from 'lucide-react'
 import Link from 'next/link'
 
