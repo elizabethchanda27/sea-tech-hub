@@ -119,6 +119,17 @@ export default function InteractiveTools() {
           <p className="text-gray-700 mb-4">
             View the design and interactive prototype created for SEA families in North Carolina.
           </p>
+          <div className="mb-6">
+            <h3 className="text-xl font-semibold text-gray-900 mb-3">Key Changes in the Redesign:</h3>
+            <ul className="list-disc list-inside space-y-2 text-gray-700 ml-4">
+              <li>Added more language options</li>
+              <li>Chatbot features: Chat session (questions/clarification/etc), Request an interpreter in the selected language</li>
+              <li>"What does this mean" button in test result section</li>
+              <li>Ask who is managing this when person is invited, so if someone younger than 18 is managing, there is a lot more directions for someone managing it for someone older</li>
+              <li>"How to" button on each tab (widgets/sections), step by step</li>
+              <li>Restructured widgets and added reminders section, especially for older SEA elders</li>
+            </ul>
+          </div>
           <div className="flex flex-col sm:flex-row gap-3">
             <a
               href="https://www.figma.com/design/pwz5BZ8wlrBA8TzJnBUidO/MyChart-Redesign---SEA-Communities-in-NC?node-id=3-3&m=dev&t=tuWqMnzzgFo0E8NI-1"
