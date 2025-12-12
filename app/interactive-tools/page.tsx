@@ -124,9 +124,9 @@ export default function InteractiveTools() {
             <ul className="list-disc list-inside space-y-2 text-gray-700 ml-4">
               <li>Added more language options</li>
               <li>Chatbot features: Chat session (questions/clarification/etc), Request an interpreter in the selected language</li>
-              <li>"What does this mean" button in test result section</li>
+              <li>&quot;What does this mean&quot; button in test result section</li>
               <li>Ask who is managing this when person is invited, so if someone younger than 18 is managing, there is a lot more directions for someone managing it for someone older</li>
-              <li>"How to" button on each tab (widgets/sections), step by step</li>
+              <li>&quot;How to&quot; button on each tab (widgets/sections), step by step</li>
               <li>Restructured widgets and added reminders section, especially for older SEA elders</li>
             </ul>
           </div>
